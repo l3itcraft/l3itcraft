@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bitcraft
-- 👀 I’m interested in security,cybersecurity more specific low level thing's (pwn,reverse),offensive security,counterintelligence,see how things work
-- 🌱 I’m currently learning reverse engineering,pwn
+- 👀 I’m interested in security,cybersecurity more specific low level thing's (pwn,reverse),offensive security,counterintelligence,see how things work,blue team
+- 🌱 I’m currently learning reverse engineering,pwn,pentesting
 - 💞️ I’m looking to collaborate on security
 - 📫 How to reach me ...
 
